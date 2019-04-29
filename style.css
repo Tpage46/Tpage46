@@ -66,6 +66,9 @@ img.avatar {
   width: 250px;
 }
 
+.update {
+  font-size: 8px;
+}
 .my-name {
   font-size: 48px;
   line-height: 1;
@@ -179,7 +182,7 @@ img.avatar {
   }
 
   .interests-container img {
-    margin-right: 32px;
-    margin-bottom: 16px;
+    margin-right: 28px;
+    margin-bottom: 14px;
   }
 }
