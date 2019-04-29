@@ -132,6 +132,10 @@ img.avatar {
   margin-bottom: 24px;
 }
 
+.headers{
+  font-weight: bold;
+}
+
 .skills-container ul {
   margin-left: 20px;
   list-style-type: disc;
