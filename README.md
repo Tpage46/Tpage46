@@ -1,5 +1,5 @@
-### Welcome!
-## My name is Terrell Page
+## Welcome!
+### My name is Terrell Page
 
 I'm a software developer.
 
