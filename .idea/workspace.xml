@@ -53,6 +53,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="79" key="MergeDialog" timestamp="1571698566532">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1571698566532" />
+    <state x="436" y="173" key="MultipleFileMergeDialog" timestamp="1571698566553">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="436" y="173" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1571698566553" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1571698506973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1571698506973" />
+  </component>
   <component name="masterDetails">
     <states>
       <state key="GlobalLibrariesConfigurable.UI">
