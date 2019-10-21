@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="638f1210-49b0-4b75-b641-63864edc310a" name="Default Changelist" comment="">
+    <list default="true" id="638f1210-49b0-4b75-b641-63864edc310a" name="Default Changelist" comment="updated work history and phone number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreyPageJune2019.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TreyPageJune2019.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +45,31 @@
       <updated>1556910129787</updated>
       <workItem from="1556910131164" duration="169000" />
       <workItem from="1558620898532" duration="260000" />
-      <workItem from="1571698041075" duration="440000" />
+      <workItem from="1571698041075" duration="690000" />
     </task>
+    <task id="LOCAL-00001" summary="updated work history and phone number">
+      <created>1571698503092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571698503092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated work history and phone number">
+      <created>1571698586167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571698586167</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated work history and phone number" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated work history and phone number" />
   </component>
   <component name="WindowStateProjectService">
     <state x="144" y="79" key="MergeDialog" timestamp="1571698566532">
@@ -62,10 +80,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="436" y="173" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1571698566553" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1571698506973">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1571698590049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1571698506973" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1571698590049" />
   </component>
   <component name="masterDetails">
     <states>
